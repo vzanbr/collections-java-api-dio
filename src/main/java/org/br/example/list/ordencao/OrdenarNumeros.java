@@ -1,4 +1,4 @@
-package org.br.example.ordencao;
+package org.br.example.list.ordencao;
 
 public class OrdenarNumeros {
     public static void main(String[] args) {

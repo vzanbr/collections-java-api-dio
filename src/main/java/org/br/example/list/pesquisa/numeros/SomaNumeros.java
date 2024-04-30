@@ -1,4 +1,4 @@
-package org.br.example.pesquisa.numeros;
+package org.br.example.list.pesquisa.numeros;
 
 import java.util.ArrayList;
 import java.util.List;

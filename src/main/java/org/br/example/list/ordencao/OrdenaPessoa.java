@@ -1,4 +1,4 @@
-package org.br.example.ordencao;
+package org.br.example.list.ordencao;
 
 import java.util.ArrayList;
 import java.util.Collections;

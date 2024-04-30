@@ -1,4 +1,4 @@
-package org.br.example.ordencao.numeros;
+package org.br.example.list.ordencao.numeros;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package org.br.example.pesquisa;
+package org.br.example.list.pesquisa;
 
 public class LojaLivro {
     public static void main(String[] args) {

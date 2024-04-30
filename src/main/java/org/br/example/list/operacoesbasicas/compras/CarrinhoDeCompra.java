@@ -1,4 +1,4 @@
-package org.br.example.operacoesbasicas.compras;
+package org.br.example.list.operacoesbasicas.compras;
 
 import java.util.ArrayList;
 import java.util.List;

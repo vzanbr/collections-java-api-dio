@@ -1,4 +1,4 @@
-package org.br.example.pesquisa.numeros;
+package org.br.example.list.pesquisa.numeros;
 
 public class MostrarNumeros {
     public static void main(String[] args) {
