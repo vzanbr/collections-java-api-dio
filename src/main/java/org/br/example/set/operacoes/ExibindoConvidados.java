@@ -7,6 +7,7 @@ public class ExibindoConvidados {
 
         covidados.adicionarConvidado("Gabriel", 150);
         covidados.adicionarConvidado("Fernando", 250);
+        covidados.adicionarConvidado("Fernando Alves", 240);
         covidados.adicionarConvidado("Rodrigo", 350);
         covidados.adicionarConvidado("Carlos", 120);
 
