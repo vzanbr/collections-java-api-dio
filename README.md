@@ -1,6 +1,6 @@
 # Projeto Trilha java DIO Backend
 
-#### Conta bancaria simples
+#### Exemplos de tipo de Collections List, Set e Map
 
 - 💬 Descrição e objetivo: Collection Framework API
 
